@@ -1,7 +1,9 @@
 body {
     text-align: center;
-    color: black;
+    color: black;  
 }
+
+
 
 a:visited {
     color: black;
@@ -9,4 +11,11 @@ a:visited {
 
 .backbutton {
     position: fixed;
+    text-align: right;
+}
+
+.Economie {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("https://america.cgtn.com/wp-content/uploads/2019/08/Global-Economy-for-DIGITAL.jpg");
 }

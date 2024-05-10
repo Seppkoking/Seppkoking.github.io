@@ -17,12 +17,8 @@ ul {
     -webkit-columns: 4;
     -moz-columns: 4;
     columns: 4;
-    padding-left: 10%;
 }
 
-li {
-    padding: 5%;
-}
 
 a:visited {
     color: black;
