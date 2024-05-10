@@ -10,6 +10,10 @@ h1 {
     font-size: 300%;
 }
 
+.introtext {
+    font-size: larger;
+}
+
 ul {
     font-size: 150%;
     text-align: left;
