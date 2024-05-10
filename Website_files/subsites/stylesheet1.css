@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
+
+.backbutton {
+    position: fixed;
+}
