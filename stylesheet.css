@@ -18,11 +18,10 @@ h1 {
 
 ul {
     font-size: 150%;
-    text-align: left;
+    text-align: center;
     list-style-position: inside;
-    -webkit-columns: 4;
-    -moz-columns: 4;
-    columns: 4;
+    list-style-type: none;
+    margin: 0%;
 }
 
 
