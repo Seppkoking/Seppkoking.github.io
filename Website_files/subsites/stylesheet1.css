@@ -5,12 +5,13 @@ body {
 }
 
 p {
-    font-size: 120%;
+    font-size: 3vw;
 }
 
 a, a:visited{
     color: black;
     display: block;
+    font-size: 2vw;
 }
 
 .IntroReligie {
@@ -23,13 +24,17 @@ a, a:visited{
 .backbutton {
     background-color: white;
     border-radius: 5px;
-    width: 15%;
+    width: 15vw;
     padding: 1%;
     position: fixed;
 }
 
 .Godsdiensten {
     background-color: cadetblue;
+}
+
+img {
+    width: 80vw;
 }
 
 .Chris {
