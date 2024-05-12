@@ -23,9 +23,9 @@ a, a:visited{
 .backbutton {
     background-color: white;
     border-radius: 5px;
-    width: 50%;
+    width: 15%;
     padding: 1%;
-    margin-left: 5%;
+    position: fixed;
 }
 
 .Godsdiensten {
