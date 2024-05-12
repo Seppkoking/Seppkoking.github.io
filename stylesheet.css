@@ -3,6 +3,7 @@ body {
     color: black;
     background-image: url("");
     background-size: cover;
+    background-repeat: no-repeat;
     background-color: darkcyan;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -24,6 +25,18 @@ a {
     color: black;
     font-size: 150%;
     text-align: center;
+    margin: 0.5%;
+    padding: 0%;
+    padding-left: 25%;
+    padding-right: 25%;
+    border: 5%;
+    border-radius: 5px;
+    width: 50%;
+    display: block;
+}
+
+li {
+    font-size: 150%;
     list-style-position: inside;
     list-style-type: none;
     margin: 0.5%;
