@@ -16,15 +16,20 @@ h1 {
     font-size: larger;
 }
 
-ul {
+li {
     font-size: 150%;
     text-align: center;
     list-style-position: inside;
     list-style-type: none;
-    margin: 0%;
+    margin: 0.5%;
     padding: 0%;
+    padding-left: 1%;
+    padding-right: 1%;
+    border: 5%;
+    border-radius: 5px;
+    width: 50%;
+    margin-left: 22.5%;
 }
-
 
 a:visited {
     color: black;
@@ -32,4 +37,36 @@ a:visited {
 
 a {
     color: black;
+}
+
+.economie {
+    background-color: rgb(180, 180, 10);
+}
+
+.staatsvorm {
+    background-color: purple;
+}
+
+.handhaving {
+    background-color: rgb(70, 70, 248);
+}
+
+.milieu {
+    background-color: rgb(13, 177, 13);
+}
+
+.gezondheidszorg {
+    background-color: white;
+}
+
+.onderwijs {
+    background-color: red;
+}
+
+.technologie {
+    background-color: aqua;
+}
+
+.godsdiensten {
+    background-color: hotpink;
 }
