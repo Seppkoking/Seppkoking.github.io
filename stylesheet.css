@@ -9,13 +9,13 @@ body {
 }
 
 h1 {
-    font-size: 5vw;
+    font-size: 5vh;
     font-weight: bolder;
 }
 
 .introtext {
-    font-size: 2vw;
     margin: 0px;
+    font-size: 2vh;
 }
 
 a:visited {
@@ -25,9 +25,10 @@ a:visited {
 a {
     color: black;
     text-align: center;
-    margin: 0.5%;
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
     padding: 0%;
-    width: 50vw;
+    width: 80vw;
     display: block;
 }
 
@@ -35,18 +36,20 @@ a {
     font-size: 0px;
     padding-left: 0px;
     margin-left: 0px;
+    width: 80vw; 
+    height: 20vh;
 }
 
 li {
-    font-size: 2vw;
+    font-size: 3vh;
     list-style-position: inside;
     list-style-type: none;
     padding-left: 0px;
     margin-left: 0px;
     border: 5%;
     border-radius: 5px;
-    width: 50vw;
-    margin-left: 22.5vw;
+    width: 80vw;
+    margin-left: 10vw;
 }
 
 .economie {
